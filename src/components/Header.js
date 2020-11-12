@@ -23,6 +23,7 @@ function Header() {
                 <img
                     src="http://pngimg.com/uploads/amazon/amazon_PNG11.png"
                     className="header__logo"
+                    alt=""
                 />
             </Link>
 

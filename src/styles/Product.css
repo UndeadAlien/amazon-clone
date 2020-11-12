@@ -12,6 +12,10 @@
     z-index: 1;
 }
 
+.product:hover {
+    filter: drop-shadow(0 0 0.75rem lightgray); 
+}
+
 .product__rating {
     display: flex;
 }
@@ -29,6 +33,11 @@
     margin-top: 10px;
     border-color: #a88734 #9c7e31 #846a29;
     color: #111;
+}
+
+.product > button:hover {
+    filter: grayscale(33%);
+    transform: scale(1.009);
 }
 
 .product__info {
