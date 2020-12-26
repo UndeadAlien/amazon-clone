@@ -22,7 +22,7 @@ Using react framework I cloned the amazon site. Adding items and removing items,
 
 ## 🎈 Usage <a name="usage"></a>
 
-Live <a href="https://clone-9b887.web.app/">demo</a>
+Live <a href="https://clone-9b887.web.app/" target="_blank">demo</a>
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 
