@@ -23,7 +23,6 @@ function App() {
   const [{ }, dispatch] = useStateValue();
 
   useEffect(() => {
-    // Only runs once when the app component loads..
     auth.onAuthStateChanged(authUser => {
       if (authUser) {
         dispatch({
